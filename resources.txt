@@ -1,0 +1,15 @@
+https://python.langchain.com/docs/how_to/document_loader_web/
+
+https://python.langchain.com/docs/concepts/text_splitters/
+
+https://python.langchain.com/docs/integrations/text_embedding/
+
+https://python.langchain.com/v0.1/docs/modules/data_connection/vectorstores/
+
+prompt: https://python.langchain.com/docs/how_to/few_shot_examples_chat/
+
+https://python.langchain.com/docs/how_to/vectorstore_retriever/
+
+https://python.langchain.com/v0.1/docs/modules/data_connection/retrievers/
+
+https://python.langchain.com/v0.1/docs/modules/chains/
