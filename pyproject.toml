@@ -14,8 +14,9 @@ dependencies = [
     "langchain-groq>=0.2.4",
     "langchain-huggingface>=0.1.2",
     "langchain-openai>=0.3.3",
+    "langgraph>=0.2.74",
+    "langgraph-cli[inmem]>=0.1.73",
     "python-dotenv>=1.0.1",
-    "tiktoken>=0.8.0",
     "wikipedia>=1.4.0",
 ]
 
